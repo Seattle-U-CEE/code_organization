@@ -62,3 +62,15 @@ Each function or class would have a one-line description (on the same line as th
 [https://github.com/jwlauer/CTD/blob/master/pyboard/logger_ctd.py](https://github.com/jwlauer/CTD/blob/master/pyboard/logger_ctd.py)
 
 [https://github.com/jwlauer/EnvironmentalSensing/blob/master/Pressure/ms_pressure.py](https://github.com/jwlauer/EnvironmentalSensing/blob/master/Pressure/ms_pressure.py)
+
+## Flowcharting.
+
+It can be critical to visually represent your code logic using a flowchart.  This reference provides a description of the basic symbols.
+
+[https://www.geeksforgeeks.org/competitive-programming/an-introduction-to-flowcharts/](https://www.geeksforgeeks.org/competitive-programming/an-introduction-to-flowcharts/)
+
+You can create one using an online tool at the following site:
+
+[https://app.diagrams.net/](https://app.diagrams.net/)
+
+You should work with your teammate to develop a flowchart of the implementation of your stopwatch and timer functions on the clock.
