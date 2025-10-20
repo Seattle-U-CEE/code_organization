@@ -2,7 +2,7 @@
 
 **Code repositories**  We have a place for storing code for this project on GitHub.
 
-You should separate into groups of 2, then create a code repository by accepting the Github Classroom invitation at [https://classroom.github.com/a/8LR6maWj](https://classroom.github.com/a/8LR6maWj).  I HOPE you are able to create private repositories each of which has three members, me and your two team members.
+You should separate into groups of 2, then create a code repository by accepting the Github Classroom invitation at a website I will provide.  I HOPE you are able to create private repositories each of which has three members, me and your two team members.
 
 # Classes
 
