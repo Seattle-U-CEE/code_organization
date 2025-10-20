@@ -10,7 +10,7 @@ Classes group data and functions into logical groupings. Specific grouped instan
 
 **Example**  See example at [https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/)
 
-Discussion questions:
+### Discussion questions:
 
 What is the difference between a class and an object?
 
